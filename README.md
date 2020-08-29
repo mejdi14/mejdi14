@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm mejdi</h1>
-<h3 align="center">A passionate Android developer from Tunisia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mejdi14" alt="mejdi14" /> </p>
 
 - 🌱 I’m currently learning **NestJs**
 
@@ -11,6 +8,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mejdi14&show_icons=true" alt="mejdi14" /></p>
 
-<p align="center">
-<a href="https://fb.com/https://www.facebook.com/mejdi.marshall/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/mejdi.marshall/" height="30" width="30" /></a>
-</p>
+
