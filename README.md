@@ -5,7 +5,7 @@
 
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img height=160 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mejdi14&hide_border=false" alt="mejdi14" />
+  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/user=mejdi14&theme=highcontrast&currStreakNum=FF0000&fire=FF0000&card_height=205&currStreakLabel=FF0000&ring=FF0000&border=000000" alt="mejdi14" />
 </a>
 
 
